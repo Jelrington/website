@@ -1,0 +1,31 @@
+.ATC{
+background-color:yellow;
+color:black;
+border-style: solid;
+border-width: 1px;
+color:black;
+height: 36px;
+width: 150px;
+border-radius: 5px;
+cursor: pointer;
+font-size:20px;}
+    
+.ATC:hover{ opacity: 0.8;}
+
+.ATC:active{opacity: 0.5;}
+
+.BN{
+background-color: orangered;
+border-style: solid;
+border-width: 1px;
+color:black;
+height: 36px;
+width: 124px;
+border-radius: 5px;
+cursor: pointer;
+font-size:20px;}
+
+.BN:hover{ background-color: white;
+color:red}
+
+.BN:active{opacity: 0.5;}
